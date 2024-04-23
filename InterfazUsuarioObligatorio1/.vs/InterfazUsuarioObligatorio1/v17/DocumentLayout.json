@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sofia\\Downloads\\Obligatorio 1 ULTIMO\\Obligatorio 1 2\\Obligatorio 1\\InterfazUsuarioObligatorio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EFE8F0-CF4A-4AAC-ABA2-366E4C3BA1C2}|..\\LogicaNegocioObligatorio1\\LogicaNegocioObligatorio1.csproj|c:\\users\\sofia\\downloads\\obligatorio 1 ultimo\\obligatorio 1 2\\obligatorio 1\\logicanegocioobligatorio1\\bovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FDA98C-BFFD-4715-BDEA-D62100BA6D38}|InterfazUsuarioObligatorio1.csproj|c:\\users\\sofia\\downloads\\obligatorio 1 ultimo\\obligatorio 1 2\\obligatorio 1\\interfazusuarioobligatorio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FDA98C-BFFD-4715-BDEA-D62100BA6D38}|InterfazUsuarioObligatorio1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EFE8F0-CF4A-4AAC-ABA2-366E4C3BA1C2}|..\\LogicaNegocioObligatorio1\\LogicaNegocioObligatorio1.csproj|c:\\users\\sofia\\downloads\\obligatorio 1 ultimo\\obligatorio 1 2\\obligatorio 1\\logicanegocioobligatorio1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EFE8F0-CF4A-4AAC-ABA2-366E4C3BA1C2}|..\\LogicaNegocioObligatorio1\\LogicaNegocioObligatorio1.csproj|c:\\users\\sofia\\downloads\\obligatorio 1 ultimo\\obligatorio 1 2\\obligatorio 1\\logicanegocioobligatorio1\\ovino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\Obligatorio 1 ULTIMO\\Obligatorio 1 2\\Obligatorio 1\\InterfazUsuarioObligatorio1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\Obligatorio 1 ULTIMO\\Obligatorio 1 2\\Obligatorio 1\\InterfazUsuarioObligatorio1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:37:19.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ovino.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\Obligatorio 1 ULTIMO\\Obligatorio 1 2\\Obligatorio 1\\LogicaNegocioObligatorio1\\Ovino.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocioObligatorio1\\Ovino.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\Obligatorio 1 ULTIMO\\Obligatorio 1 2\\Obligatorio 1\\LogicaNegocioObligatorio1\\Ovino.cs",
+              "RelativeToolTip": "..\\LogicaNegocioObligatorio1\\Ovino.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABWAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:36:54.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bovino.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\Obligatorio 1 ULTIMO\\Obligatorio 1 2\\Obligatorio 1\\LogicaNegocioObligatorio1\\Bovino.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocioObligatorio1\\Bovino.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\Obligatorio 1 ULTIMO\\Obligatorio 1 2\\Obligatorio 1\\LogicaNegocioObligatorio1\\Bovino.cs",
+              "RelativeToolTip": "..\\LogicaNegocioObligatorio1\\Bovino.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:36:20.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Downloads\\Obligatorio 1 ULTIMO\\Obligatorio 1 2\\Obligatorio 1\\LogicaNegocioObligatorio1\\Animal.cs",
+              "RelativeDocumentMoniker": "..\\LogicaNegocioObligatorio1\\Animal.cs",
+              "ToolTip": "C:\\Users\\sofia\\Downloads\\Obligatorio 1 ULTIMO\\Obligatorio 1 2\\Obligatorio 1\\LogicaNegocioObligatorio1\\Animal.cs",
+              "RelativeToolTip": "..\\LogicaNegocioObligatorio1\\Animal.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:33:25.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

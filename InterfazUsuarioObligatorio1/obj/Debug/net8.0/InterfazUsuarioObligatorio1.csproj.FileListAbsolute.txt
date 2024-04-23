@@ -1,0 +1,109 @@
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.deps.json
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.runtimeconfig.json
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.pdb
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.AssemblyReference.cache
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfoInputs.cache
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfo.cs
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.CoreCompileInputs.cache
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.CopyComplete
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/refint/InterfazUsuarioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.genruntimeconfig.cache
+/Users/neli/Downloads/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/ref/InterfazUsuarioObligatorio1.dll
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.exe
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.deps.json
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.runtimeconfig.json
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.dll
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.pdb
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.AssemblyReference.cache
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfoInputs.cache
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfo.cs
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.CoreCompileInputs.cache
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/Interfaz.8F9453F4.Up2Date
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/refint/InterfazUsuarioObligatorio1.dll
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.genruntimeconfig.cache
+C:/Users/sofia/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/ref/InterfazUsuarioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.deps.json
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.runtimeconfig.json
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.pdb
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.AssemblyReference.cache
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfoInputs.cache
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfo.cs
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.CoreCompileInputs.cache
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.CopyComplete
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/refint/InterfazUsuarioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.genruntimeconfig.cache
+/Users/neli/Downloads/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/ref/InterfazUsuarioObligatorio1.dll
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.exe
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.deps.json
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.runtimeconfig.json
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.dll
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.pdb
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.AssemblyReference.cache
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfoInputs.cache
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfo.cs
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.CoreCompileInputs.cache
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/Interfaz.8F9453F4.Up2Date
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/refint/InterfazUsuarioObligatorio1.dll
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.genruntimeconfig.cache
+C:/Users/sofia/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/ref/InterfazUsuarioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.deps.json
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.runtimeconfig.json
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.pdb
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.AssemblyReference.cache
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfoInputs.cache
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfo.cs
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.CoreCompileInputs.cache
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.CopyComplete
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/refint/InterfazUsuarioObligatorio1.dll
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.genruntimeconfig.cache
+/Users/neli/Downloads/Obligatorio 1 ULTIMO/Obligatorio 1 2/Obligatorio 1/InterfazUsuarioObligatorio1/obj/Debug/net8.0/ref/InterfazUsuarioObligatorio1.dll
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.deps.json
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.runtimeconfig.json
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/bin/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.dll
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/bin/Debug/net8.0/LogicaNegocioObligatorio1.pdb
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.AssemblyReference.cache
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfoInputs.cache
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.AssemblyInfo.cs
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.CoreCompileInputs.cache
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.sourcelink.json
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.csproj.CopyComplete
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.dll
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/refint/InterfazUsuarioObligatorio1.dll
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.pdb
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/InterfazUsuarioObligatorio1.genruntimeconfig.cache
+/Users/neli/Documents/FACU/Semestre2/Programacion2/Obligatorio1-P2/InterfazUsuarioObligatorio1/obj/Debug/net8.0/ref/InterfazUsuarioObligatorio1.dll
