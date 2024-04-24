@@ -12,7 +12,7 @@ namespace LogicaNegocioObligatorio1
     {
         private int _personasACargo;
 
-        public Capataz(Empleado empleado, string email,string contrasenia,string nombre, DateTime fechaIngreso, int personasACargo):base(email,contrasenia,nombre,fechaIngreso)
+        public Capataz(string email,string contrasenia,string nombre, DateTime fechaIngreso, int personasACargo):base(email,contrasenia,nombre,fechaIngreso)
         {
             _personasACargo = personasACargo;
         }

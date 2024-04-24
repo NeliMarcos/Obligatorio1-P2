@@ -19,13 +19,14 @@ using System;
              get { return _tareasAsignadas; }
          }
 
-         public Peon (string email, string contrasenia, string nombre, DateTime fechaIngreso, bool residente, List<Tarea> tareasAsignadas, string descripcion, DateTime fechaPactada, bool completada, DateTime fechaDeCierre, string comentario) : base(email, contrasenia, nombre, fechaIngreso)
+         public Peon(string email, string contrasenia, string nombre, DateTime fechaIngreso, bool residente,
+             string descripcion, DateTime fechaPactada, bool completada,
+             DateTime fechaDeCierre, string comentario) : base(email, contrasenia, nombre, fechaIngreso)
          {
              _residente = residente;
-             _tareasAsignadas = new List<Tarea>();
              _tareaAsignada = new Tarea(descripcion, fechaPactada, completada, fechaDeCierre, comentario);
-             AltaTarea(_tareaAsignada);
-         }
+             _tareasAsignadas.Add(_tareaAsignada);
+     }
 
         public void Validar() // que significa este error?
         {
