@@ -14,7 +14,22 @@ namespace LogicaNegocioObligatorio1
         private string _descripcion;
         private double _cantDeHectareas;
         private int _capacidadMaxima;
-        private List<Animal> _animalesPastando; 
+        private List<Animal> _animalesPastando;
+        
+        public double Hectareas
+        {
+            get
+            {
+                return _cantDeHectareas;
+            }
+        }
+        public double Capacidad
+        {
+            get
+            {
+                return _capacidadMaxima;
+            }
+        }
         
         public Potrero(string descripcion, double cantDeHectareas, int capacidadMaxima, List<Animal> animalesPastando )
         {
@@ -50,6 +65,14 @@ namespace LogicaNegocioObligatorio1
             {
                 
             }
+        }
+        public override string ToString()
+        {
+            return "i. " + _id + "\n"
+                   + "ii. " + _descripcion + "\n"
+                   + "iii. " + _cantDeHectareas + "\n"
+                   + "iv. " + _capacidadMaxima + "\n"
+                   + "---------------" + "\n"; 
         }
     }
 }

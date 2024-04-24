@@ -43,6 +43,38 @@
                 throw new Exception("Ya existe un peon con los mismos datos.");
             }
         }
+        public Empleado BuscarEmpleado(string email)
+        {
+            Empleado empleadoBuscado = null;
+            int i = 0;
+            while(i< _empleados.Count && empleadoBuscado == null) 
+            {
+                if (_empleados[i].Email == email)
+                {
+                    empleadoBuscado = _empleados[i];
+                }
+            }
+
+            return empleadoBuscado;
+        }
+        public void AsignarTarea(string email, Tarea tarea)
+        {
+            // Buscar el empleado por su email
+            Empleado empleado = BuscarEmpleado(email);
+
+            // Verificar si el empleado existe y es un peón
+            if (empleado != null && empleado is Peon peon)
+            {
+                // Asignar la tarea al peón
+                Peon tipoPeon = (Peon)empleado;
+                tipoPeon.AltaTarea(tarea);
+                Console.WriteLine("Tarea" + tarea + " asignada al peón con email" + email);
+            }
+            else
+            {
+                Console.WriteLine($"No se encontró un peón con el email "+email);
+            }
+        }
 
         // ANIMAL
         //EL ALTA SIRVE PARA LOS DOS TIPOS DE ANIMAL
@@ -90,20 +122,29 @@
             }
         }
 
-        public Empleado BuscarEmpleado(string email)
+        public List<Potrero> BuscarPotreros(double hectareas , double capacidad)
         {
-            Empleado empleadoBuscado = null;
+            List<Potrero> _potrerosBuscados = new List<Potrero>();
             int i = 0;
-            while(i< _empleados.Count && empleadoBuscado == null) 
+            while(i< _potreros.Count) 
             {
-                if (_empleados[i].Email == email)
+                if (_potreros[i].Hectareas < hectareas && _potreros[i].Capacidad < capacidad)
                 {
-                    empleadoBuscado = _empleados[i];
+                    
+                    _potrerosBuscados.Add(_potreros[i]);
                 }
+                i++;
             }
 
-            return empleadoBuscado;
-        }    
+            return _potrerosBuscados;  
+        }
+
+        public double EstablecerPrecioLana(double nuevoPrecio)
+        {
+            return Animal.EstablecerPrecioLanaOvino(nuevoPrecio);
+        }
+
+        
     }
 
 }

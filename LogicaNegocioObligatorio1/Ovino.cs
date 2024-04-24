@@ -9,13 +9,29 @@ namespace LogicaNegocioObligatorio1
     public class Ovino : Animal
     {
         private double _pesoEstimadoLana;
-        private double _precioKgLana;
+        private static double s_precioKgLana = 1;
         private static double s_precioKgOvino;
-        public Ovino (string idCaravana, string sexo, string raza, DateTime fechaDeNacimiento, double costoDeAdquisicion, double costoDeAlimentacion, double pesoActual, bool hibrido, double pesoEstimadoLana, double precioKgLana) : base(idCaravana, sexo, raza, fechaDeNacimiento, costoDeAdquisicion, costoDeAlimentacion, pesoActual, hibrido)
+
+        public double PrecioKgLana
+        {
+            get { return s_precioKgLana; }
+            set { s_precioKgLana = value; }
+        }
+        public Ovino (string idCaravana, string sexo, string raza, DateTime fechaDeNacimiento, double costoDeAdquisicion, double costoDeAlimentacion, double pesoActual, bool hibrido, double pesoEstimadoLana) : base(idCaravana, sexo, raza, fechaDeNacimiento, costoDeAdquisicion, costoDeAlimentacion, pesoActual, hibrido)
         {
             _pesoEstimadoLana = pesoEstimadoLana;
-            _precioKgLana = precioKgLana;
             
         }
+
+        public static double EstablecerPrecioLana(double nuevoPrecio)
+        {
+            if (nuevoPrecio != s_precioKgLana)
+            {
+                s_precioKgLana = nuevoPrecio;
+            }
+
+            return s_precioKgLana;
+        }
+        
     }
 }

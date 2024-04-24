@@ -2,7 +2,7 @@
 
 namespace LogicaNegocioObligatorio1
 {
-    public class Animal: IValidable
+    public class Animal : IValidable
     {
         private string _idCaravana;
         private string _sexo;
@@ -19,13 +19,14 @@ namespace LogicaNegocioObligatorio1
         {
             get { return _idCaravana; }
         }
+
         public bool EsLibre
         {
             get { return _esLibre; }
             set { _esLibre = value; }
         }
-        
-       
+
+
         public Animal(string idCaravana, string sexo, string raza, DateTime fechaDeNacimiento,
             double costoDeAdquisicion, double costoDeAlimentacion, double pesoActual, bool hibrido)
         {
@@ -42,8 +43,8 @@ namespace LogicaNegocioObligatorio1
         }
 
         public void Validar()
-        { 
-            
+        {
+
             if (_idCaravana.Length < 8)
             {
                 throw new Exception("El código indentificador debe tener un minimo de 8 dígitos.");
@@ -57,19 +58,27 @@ namespace LogicaNegocioObligatorio1
             {
                 throw new Exception("No se puede vacunar al animal");
             }
-            
+
             if (!_registros.Contains(nuevoRegistro))
             {
                 _registros.Add(nuevoRegistro);
-            }  
+            }
         }
+
         public override string ToString()
         {
             return "i. " + _idCaravana + "\n"
-                + "ii. " + _raza + "\n"
-                + "iii. " + _pesoActual + "\n"
-                + "iv. " + _sexo + "\n"
-                + "---------------" + "\n"; 
+                   + "ii. " + _raza + "\n"
+                   + "iii. " + _pesoActual + "\n"
+                   + "iv. " + _sexo + "\n"
+                   + "---------------" + "\n";
         }
+
+        public static double EstablecerPrecioLanaOvino(double nuevoPrecio)
+        {
+            return Ovino.EstablecerPrecioLana(nuevoPrecio);
+
+        }
+        
     }
 }

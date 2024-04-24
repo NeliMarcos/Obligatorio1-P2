@@ -26,6 +26,8 @@ namespace InterfazUsuarioObligatorio1
         {
             Console.WriteLine("0 - Salir");
             Console.WriteLine("1 - Listado de todos los animales.");
+            Console.WriteLine("2 - Mostrar potreros");
+            Console.WriteLine("3 - Modificar precio de la lana");
             Console.WriteLine("4 - Alta bovino.");
         }
 
@@ -35,6 +37,12 @@ namespace InterfazUsuarioObligatorio1
             {
                 case 1:
                     MostrarAnimales();
+                    break;
+                case 2:
+                    MostrarPotreros();
+                    break;
+                case 3:
+                    PrecioKgLana();
                     break;
                 case 4:
                     AltaBovino();
@@ -48,6 +56,31 @@ namespace InterfazUsuarioObligatorio1
             foreach (Animal animal in miSistema.Animales)
             {
                 Console.WriteLine(animal);
+            }
+        }
+
+        static void MostrarPotreros()
+        {
+            try
+            {
+                Console.WriteLine("Ingrese cantidad de hectareas");
+                double.TryParse(Console.ReadLine(), out double hectareas);
+                Console.WriteLine("Ingrese capacidad maxima");
+                double.TryParse(Console.ReadLine(), out double capacidad);
+                List<Potrero> listaDePotreros = miSistema.BuscarPotreros(hectareas, capacidad);
+                if (listaDePotreros.Count() == 0)
+                {
+                  Console.WriteLine("No hay potreros para mostrar en la lista");
+                }
+                else
+                {
+                    Console.WriteLine(listaDePotreros);
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
             }
         }
 
@@ -122,23 +155,17 @@ namespace InterfazUsuarioObligatorio1
             }
 
         }
-        public static void AsignarTarea(string email, Tarea tarea)
-        {
-            // Buscar el empleado por su email
-            Empleado empleado = miSistema.BuscarEmpleado(email);
 
-            // Verificar si el empleado existe y es un peón
-            if (empleado != null && empleado is Peon peon)
+        static void PrecioKgLana()
+        {
+            Console.WriteLine("Ingrese nuevo precio de lana");
+            double.TryParse(Console.ReadLine(), out double nuevoPrecio);
+            if (nuevoPrecio != 0)
             {
-                // Asignar la tarea al peón
-                Peon tipoPeon = (Peon)empleado;
-                tipoPeon.AltaTarea(tarea);
-                Console.WriteLine($"Tarea '{tarea}' asignada al peón con email '{email}'.");
-            }
-            else
-            {
-                Console.WriteLine($"No se encontró un peón con el email '{email}'.");
+              Console.WriteLine(miSistema.EstablecerPrecioLana(nuevoPrecio));  
             }
         }
+        
+        
     }
 }
